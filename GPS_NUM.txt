@@ -1,0 +1,7 @@
+Minimum Latitude: 3.50
+
+Maximum Latitude: 6.00
+
+Minimum Longitude: 100.20
+
+Maximum Longitude: 101.80
